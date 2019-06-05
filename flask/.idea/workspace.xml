@@ -1,0 +1,1585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a44b1a14-8b35-4520-8ad2-77c261979544" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/example/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/example/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/sys.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/testExample.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/purview.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/role.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/role_purview.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/user.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin/user_role.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/auth/login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/AES.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/AES.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/fun.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/fun.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/state.py" beforeDir="false" afterPath="$PROJECT_DIR$/common/status.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/count/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/count/ybb1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/count/ybb2_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/count/ybb2_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/count/ybb3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/count/ybb4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/count/ybb5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dao/ComModel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dao/Model.py" beforeDir="false" afterPath="$PROJECT_DIR$/dao/Model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dao/db.py" beforeDir="false" afterPath="$PROJECT_DIR$/dao/sqliteDb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dao/sys.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/exception/exception.py" beforeDir="false" afterPath="$PROJECT_DIR$/exception/exception.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/export/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/export/export.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/import_data/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/import_data/importXs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/importer/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/importer/importer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/del_ybb.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/export_xs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/log/login.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/sys%Y%m%d.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/sys.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search/search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search/xs_search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search/ybb_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shflask.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/8407.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/app.2f0fde04.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/app.89410b8d.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/app.da0fdbd4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/app.ff62a816.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-002d.dd74bc22.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-00f8.e7f6dc2c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-0119.45e443bf.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-0267.6fcb6dc9.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-02ad.ea9948c5.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-030c.5e8ae507.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-0564.4446efa0.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-0618.cbcdaa25.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-062a.fce8a2e4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-07ec.65bd9801.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-09ca.9f57831c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-09d3.205335dc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-0aa6.c944ab43.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-0bb4.b600607a.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-0d8f.eb00630a.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-0e37.371a3eb4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-0f72.baf0d8ee.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-100b.4e56528e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-119c.1bf1070d.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-142d.70e1b943.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-14fb.916b9935.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-1556.68dbb461.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-1617.d18fe5c6.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-1713.280a7b1a.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-1809.95bd83d5.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-1833.afe02751.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-1ae5.ac861a2e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-1cbe.6c745a14.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-1e02.8fd2dc9a.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-1e38.cdc76765.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-1e4f.95c81990.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-1f13.2d9720e7.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-1f2d.06d7e3bd.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-1fa7.ac1cb507.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-1fb6.e46b2d8f.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-1fdd.aaac64f0.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-2056.b96abf22.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-211f.75caa557.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-2169.939a05fd.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-2190.26b34240.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-24dc.e96de796.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-2687.ba5dcfa7.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-26fe.3ca13824.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-2811.91c9f976.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-282e.4cd0778e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-2846.5e2b47a1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-28c8.1a8e41a1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-29f2.fa948cbc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-2a68.75a452bb.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-2be7.4a696baa.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-2c28.c092cad5.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-2d33.fa46d91c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-2d70.ea3e35ca.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-2ff3.1367c5bf.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-328e.601f1a2e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-34ca.b9d14357.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-3622.6b721186.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-36a2.9a9af8e5.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-3722.c932be70.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-3787.9d8a5d9f.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-397b.a6241950.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-3a46.8c691a78.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-3b2a.4be64ab1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-3baa.736d8293.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-3be5.8ed3cc76.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-3cd1.a3dd61d3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-3ce5.9e97dd90.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-3d79.deee3c36.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-3f45.dc0ae80e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-3fb8.fd0774cf.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-40a4.8ddc7692.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-4286.76f0bcb9.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-43d5.4feea0cd.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-4452.0e51d2cc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-4462.2dbef6db.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-45be.9aab3db3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-45dd.4b4d585b.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-46a2.1557e87e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-4853.88479d7e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-4870.d7251f1f.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-48cc.5c9870af.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-48d1.042a2eca.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-4947.3ebbfb9b.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-4afa.9c0f3bbf.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-4b5b.4feea0cd.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-4bae.91901851.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-4bb2.5349a8cf.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-4f91.798bec7c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-50ca.46e4e249.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-51be.8154ba9b.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-53c1.5eb57c16.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-543c.8f758481.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-549b.79e1ec39.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-5539.90d5ae28.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-5639.151c4f85.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-563b.b62af810.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-57cc.85b1dd1a.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-59c0.d1cc49ec.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-5b85.8a0f6b45.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-5c31.587c266f.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-5c88.89ab3a2a.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-5cad.5747a374.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-5d0e.066e7e91.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-5e3c.2489d374.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-5e87.e8308021.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-60ed.997c7606.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-6133.399a4625.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-6141.41ed719a.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-6285.8d562c11.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-62d5.864f3b77.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-6300.5207a624.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-63ed.5d01c620.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-640c.5069d776.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-640e.a64b7f45.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-64ea.041e0419.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-666a.c39a70f2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-67c2.6eec4a3a.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-68e8.4436a553.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-6ac0.58ec29ad.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-6afe.8ca2558e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-6bf6.8e37f041.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-6d1d.072729b1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-6d43.40bf7938.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-6d81.62ee25b5.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-725e.4d96fcd9.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-729b.48bfefac.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-74c7.77466929.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-761a.41e4ce3e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-76b4.21b05cc3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-77df.88ff4c41.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-77fe.4b906613.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-782e.671e1607.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-7830.8f00ca43.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-7909.7a44e87d.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-7ac6.5d2234e1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-7b6d.e2b6217c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-7bc9.62f02e94.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-7ca3.b13cbc5e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-7de3.e54204d8.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-7e25.4620a246.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-7e38.7a79d5c5.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-7e8c.6c0f85af.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-7e99.31dc8151.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-7efa.9052b7a0.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-81fa.e7bee12b.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-8491.ef96bd92.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-857e.9598661d.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-860d.15f93591.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-8737.016d3dcf.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-91a9.c3484e20.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-92af.4169fa12.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-9332.fab3516d.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-9567.a160f104.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-95c1.4ba4c0b1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-95d6.93309530.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-9998.c0430a5b.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-9a05.4c813874.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-9b4a.110fa072.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-a21e.71d3cd66.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-a236.e51b0af0.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-a2b9.9d25af30.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-a37d.999a27c6.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-a4e8.a160f104.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-ab0a.c16c5e4a.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-abad.e7f6ef02.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-ac62.cc2d402d.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-ae21.34dafb9e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-ae98.6b1ffe53.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-afcb.9077ef65.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-b139.7c8324a0.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-b4ba.a0adc49e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-b899.82dcdbc6.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-ba70.3c6fa104.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-bbbe.7b9fe018.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-c195.f632bb25.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-c391.91b62f2c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-c7ce.448ba699.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-c94a.ba6a3dbe.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-cdfc.2ce50704.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-ce75.2073f03a.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-cecc.708bcd45.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-d233.3a386eb0.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-d2c5.63a128b1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-d53f.f03e71fe.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-d7a7.45b5df3c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-dbff.ad93b10c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-dbff.bf69a781.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-dc04.37df75ff.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-df7c.16cf06b5.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-dfb7.fa4c94b9.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-e0b4.99bb5e90.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-e22f.5fe18dee.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-e7fa.a7934c7f.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-e801.7877f8a3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-e903.e8ef98a3.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-e95f.e6c0a812.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-ea10.8b573a1c.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-eba5.bd8ac7ba.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-ede3.0e761832.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-efcb.ad77cb6b.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-elementUI.dbecb8c7.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-f291.a5e48fc4.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-f425.884709d6.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-f538.a77982ab.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-f630.37bb415f.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-f800.021cf94f.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-f909.cbad29d6.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-f94b.9077ef65.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-f999.1a72ab31.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-fbea.7d4bbbff.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-fce1.ce31e2f2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-fd18.1f26007e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-fd58.486f969e.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-fe83.31d013fc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-fea5.6eb603f9.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-ff52.314c230d.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-libs.52efbeee.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/chunk-libs.b3b2bafc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/fonts/element-icons.6f0a763.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/3.54f29ce.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/404.a57b6f3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/bg1.1edde7f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/login.db1711c.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/pi.df59e3f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/三水区2.a1d1933.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/佛山2.7d248eb.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/南海区2.6391274.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/禅城区2.26c27a9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/顺德区2.9640b56.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/img/高明区2.386c6bd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/jquery-2.2.4.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/4Yi.35f84fac.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/PDX0.6ee2bdef.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/WDxd.23a8f958.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/XaoG.f5e47125.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/YCeG.9c85049d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/app.0458ce84.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/app.1eb5760b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/app.9f975d1c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/app.dc57075a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/bvIQ.44d5c040.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/cEog.3799eac1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-002d.7768d18a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-00f8.0c36c86e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-0119.2c4ae1a8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-0267.82bb4301.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-02ad.eb589f41.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-030c.af5efc52.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-0564.5d88ccc8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-0618.e271fc6c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-062a.e2081a87.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-07ec.c8971ccf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-089e.595a1e85.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-089e.cb6a75c4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-09ca.d6ea4aea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-09d3.5ea69e41.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-0aa6.7df7b540.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-0bb4.c5a65b7d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-0d8f.19064332.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-0e37.06e153b8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-0f72.5f7c78da.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-100b.ca85a0f5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-119c.69bd27e2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-142d.e4379ae0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-14fb.3386376b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-1556.a04877e1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-1617.d5cb1db3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-1713.15c56a04.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-1809.81cbf148.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-1833.149d9698.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-1ae5.3f4c228b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-1cbe.beaac7ec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-1e02.f1911d0f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-1e38.09f36690.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-1e4f.fae6e4d6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-1f13.1f4582b3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-1f2d.b377b1d6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-1fa7.d4886c7a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-1fb6.92ca1bf6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-1fdd.c0aa0849.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-2056.0d39afd9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-211f.7a767f67.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-2169.57b35f0d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-2190.cb013ce9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-24dc.95a7a9cc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-2687.77ce42a1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-26fe.82b9d1d8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-2811.3f23bc50.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-282e.977dd546.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-2846.b2712bea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-28c8.4d53e67e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-29f2.87ddedf4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-2a68.fe20e710.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-2be7.7073277f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-2c28.354acdd4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-2d33.ce3e313c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-2d70.1daefd1e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-2ff3.f7840d97.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-328e.c43da09d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-34ca.41b4710b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-3622.45590aa9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-36a2.938cff6d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-3722.3618a9e0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-3787.09c6141d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-397b.b6aa077d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-3a46.a736bc0e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-3ae6.acca0153.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-3b2a.a473405e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-3baa.cd9fb127.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-3be5.c6af5b2d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-3be5.ef8a107c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-3cd1.54790758.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-3ce5.cf4ae103.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-3d79.0c60c3b1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-3f45.f70303d0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-3fb8.bd0d975f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-40a4.1c99df02.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-4286.48bf1843.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-43d5.5b39ca5f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-4452.4ff3144f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-4462.dbc4faa7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-45be.dc18e8fc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-45dd.4a78589b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-46a2.0ae3cb1d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-4853.4feadcc6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-4870.541cd0bd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-48cc.1c90c7fc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-48d1.b72f5a8c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-4947.a52dac7b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-4afa.835507f6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-4b5b.9ee94ff7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-4bae.b12bc3b5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-4bb2.a9efa9f6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-4f91.4d2b237b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-50ca.2cae8323.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-51be.b24a6510.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-53c1.6ba1c38a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-543c.bf5930c6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-549b.1dd7c2d8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-5539.93b30a6a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-5639.daf385f4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-563b.1771e6b3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-57cc.730d06c1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-5803.15fe3faf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-5803.5f3d109a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-59c0.94705850.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-5b85.d2083b85.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-5c31.db83e2a5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-5c88.318e1c5e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-5cad.d7e23634.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-5d0e.c1b09258.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-5e3c.c81bbe46.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-5e87.bd0f31d6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-60ed.dc430616.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-6133.49fdbec9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-6141.7d1fc1d1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-6285.358d5ff2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-62d5.0b240d0a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-6300.14dfa8ae.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-63ed.6a550459.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-640c.00713ddf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-640e.f46006f2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-64ea.d40fa89c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-666a.44fbae1d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-667b.374847e9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-67c2.02297ae0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-68e8.28320985.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-6ac0.01b29a9e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-6afe.b884529c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-6bf6.098a303e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-6d1d.a88ff2b8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-6d43.b22c4f8c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-6d43.c973b0fa.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-6d81.f734bb0d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-725e.4a51c1d6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-729b.6a4ca176.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-74c7.733c5f1a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-761a.7974f013.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-76b4.749add5e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-77df.32fa9edb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-77fe.46605a29.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-782e.78b8f861.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-7830.29a35535.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-7909.98921751.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-7a80.19167c12.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-7a80.1c00195c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-7a80.a82eb08d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-7ac6.bc4aebc3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-7b0c.20445baf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-7b6d.28282485.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-7bc9.9724f905.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-7ca3.304ee4d0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-7ca3.9cc74f99.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-7de3.07ae14be.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-7e25.0ab21757.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-7e25.5e079671.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-7e38.a89bc09e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-7e8c.0a241161.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-7e99.4a53272a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-7efa.ec73643b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-81fa.c44c5879.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-831b.07cf1beb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-831b.ebbef6d6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-8491.ed4a7ca0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-857e.2a002b5a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-860d.f62a18df.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-8737.cca53b1b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-91a9.a9c01024.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-92af.55a0e0e5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-9332.8a8cd51a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-9567.ab9afe85.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-95c1.6c6d0bca.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-95d6.bd9da891.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-9998.57178089.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-9a05.aac096e1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-9b4a.0fe669ea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-9ced.4c3e79b5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-a21e.5fd65c03.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-a236.020b76b7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-a2b9.77d8e3d2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-a37d.c5ea2eab.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-a4e8.ba2ee00e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-a7c8.9ac9d1d7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-aa0b.1b4692f6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-ab0a.84b698bf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-abad.a91ac2b7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-ac62.25682f9a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-ae21.44d932d3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-ae98.a32736ad.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-afcb.fcf0922c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-b139.e33b5fa1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-b4ba.b7ba9bb5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-b899.a6be5b9b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-ba70.93ee5f49.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-bbbe.ed8d0dd9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-bdbc.af3b1614.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-bdbc.e546ad0b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-c195.bfda78de.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-c391.751ee0ce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-c7ce.4cdef81c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-c94a.9c73b563.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-cdfc.ce78a4dc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-ce75.3161a583.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-cecc.a471bd45.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-d233.d14e6b26.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-d2c5.feeea5d8.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-d53f.255ecdcc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-d7a7.d80c831b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-dbff.1c6855d6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-dbff.b8e1fc63.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-dc04.d17c70d0.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-df7c.c1d0cf7e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-dfb7.cf1fec85.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-e0b4.c1d139ea.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-e22f.50b7868c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-e7fa.40c5ce85.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-e801.3cdc5222.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-e903.531bb558.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-e903.671feb13.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-e903.a6c2af60.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-e95f.fb2372f2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-e9ff.c95fa15e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-e9ff.f953cfba.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-ea10.edda3b42.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-eba5.a4e10bd7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-ede3.1599f736.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-ef4a.8f37f7b7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-efcb.6ae2961b.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-elementUI.c7629987.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-f291.1958925a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-f425.307ae6f9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-f538.68c1392e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-f630.774bedd3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-f800.5f8a8915.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-f909.5737e1a3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-f94b.1a85aff9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-f999.3d4e8fb6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-fbea.fa945416.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-fce1.8a85854e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-fd18.b9995cb9.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-fd58.cf45b194.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-fe83.250e90bd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-fea5.1a415085.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-ff52.87abc8e4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-libs.520297bd.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/chunk-libs.59595d8a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/g8tj.32ca8e2d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/uhpB.a12537f5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/reset.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/track18.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sys - 副本.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sys.db" beforeDir="false" afterPath="$PROJECT_DIR$/sys.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tj/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tj/ajdjqk.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tj/dxal_xb1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tj/dxal_xb2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tj/gspjjd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tj/xsmlqdyjmx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tj/xsmpqk.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tj/ybb1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tj/ybb2_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tj/ybb2_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tj/ybb3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tj/ybb4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tj/ybb5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tj/zcjd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tj/zygzqk.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tj_new/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tj_new/cydw_ybb4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tj_new/cz_ybb3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tj_new/dxal_xb1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tj_new/dxal_xb2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tj_new/fss_ybb1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tj_new/ga_ybb2_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tj_new/ga_ybb2_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tj_v3/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tj_v3/dxal_xb1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tj_v3/dxal_xb2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tj_v3/ybb1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tj_v3/ybb2_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tj_v3/ybb2_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tj_v3/ybb3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tj_v3/ybb4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tj_v3/ybb5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tj_v3/ybb_zj.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/home.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/qyfx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/view/sjfx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/work/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/work/warning.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xs/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xs/ajxx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xs/bhs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xs/bjbrxx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xs/ccjg.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xs/ccqkAjblqk.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xs/jbrxx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/xs/jbxx.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/shflask$Unittests_for_testExample_TestExample_test_list_user.coverage" NAME="Unittests for testExample.TestExample.test_list_user Coverage Results" MODIFIED="1559704799542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/shflask$Unittests_for_testExample_TestExample_test_add_user.coverage" NAME="Unittests for testExample.TestExample.test_add_user Coverage Results" MODIFIED="1559704789776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/shflask$Model.coverage" NAME="Model Coverage Results" MODIFIED="1547620573846" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/dao" />
+    <SUITE FILE_PATH="coverage/shflask$warning.coverage" NAME="warning Coverage Results" MODIFIED="1553827333996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/work" />
+    <SUITE FILE_PATH="coverage/shflask$aes.coverage" NAME="aes Coverage Results" MODIFIED="1548050987481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/shflask$Unittests_for_testExample_TestExample.coverage" NAME="Unittests for testExample.TestExample Coverage Results" MODIFIED="1559704138529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/shflask$Unittests_in_testExample_py.coverage" NAME="Unittests in testExample.py Coverage Results" MODIFIED="1559704181940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/shflask$fun.coverage" NAME="fun Coverage Results" MODIFIED="1550218571718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/shflask$test.coverage" NAME="test Coverage Results" MODIFIED="1553827388009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/shflask$app.coverage" NAME="app Coverage Results" MODIFIED="1559704877976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1866044704">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="45" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="4" />
+          <entry key="project.open.time.102" value="1" />
+          <entry key="project.open.time.103" value="1" />
+          <entry key="project.open.time.108" value="1" />
+          <entry key="project.open.time.137" value="1" />
+          <entry key="project.open.time.29" value="1" />
+          <entry key="project.open.time.35" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.40" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.59" value="1" />
+          <entry key="project.open.time.61" value="1" />
+          <entry key="project.open.time.62" value="1" />
+          <entry key="project.open.time.63" value="1" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.open.time.65" value="1" />
+          <entry key="project.open.time.66" value="1" />
+          <entry key="project.open.time.67" value="2" />
+          <entry key="project.open.time.69" value="1" />
+          <entry key="project.open.time.71" value="3" />
+          <entry key="project.open.time.72" value="1" />
+          <entry key="project.open.time.73" value="3" />
+          <entry key="project.open.time.75" value="2" />
+          <entry key="project.open.time.76" value="1" />
+          <entry key="project.open.time.78" value="1" />
+          <entry key="project.open.time.80" value="1" />
+          <entry key="project.open.time.81" value="1" />
+          <entry key="project.open.time.83" value="1" />
+          <entry key="project.open.time.85" value="1" />
+          <entry key="project.open.time.86" value="1" />
+          <entry key="project.open.time.88" value="1" />
+          <entry key="project.open.time.89" value="2" />
+          <entry key="project.open.time.91" value="1" />
+          <entry key="project.open.time.93" value="1" />
+          <entry key="project.open.time.95" value="1" />
+          <entry key="project.open.time.97" value="3" />
+          <entry key="project.open.time.99" value="1" />
+          <entry key="project.opened" value="51" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="css" value="1" />
+          <entry key="html" value="5" />
+          <entry key="js" value="1" />
+          <entry key="log" value="3" />
+          <entry key="md" value="1" />
+          <entry key="py" value="338" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CSS" value="1" />
+          <entry key="HTML" value="5" />
+          <entry key="JavaScript" value="1" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Python" value="338" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="Python Console" value="11" />
+          <entry key="dummy" value="15" />
+          <entry key="md" value="704" />
+          <entry key="py" value="14541" />
+          <entry key="txt" value="16" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Markdown" value="704" />
+          <entry key="PLAIN_TEXT" value="31" />
+          <entry key="Python" value="14552" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.vcs.git.usages">
+        <counts>
+          <entry key="git.branch.checkout.local" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-998281802">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="2019-06-05_02-20" value="1" />
+          <entry key="2019-06-05_02-21" value="1" />
+          <entry key="html" value="1" />
+          <entry key="log" value="2" />
+          <entry key="md" value="1" />
+          <entry key="py" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="1" />
+          <entry key="Markdown" value="1" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Python" value="21" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="22" />
+          <entry key="html" value="87" />
+          <entry key="md" value="51" />
+          <entry key="py" value="614" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="87" />
+          <entry key="Markdown" value="51" />
+          <entry key="PLAIN_TEXT" value="22" />
+          <entry key="Python" value="614" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="shflask" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+              <folding>
+                <element signature="e#22#62#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="57">
+                <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dao/Model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="14" />
+              <folding>
+                <element signature="e#48#72#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exception/exception.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+              <folding>
+                <element signature="e#22#45#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/dao/sqliteDb.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example/user.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+              <folding>
+                <element signature="e#15#36#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/testExample.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="55" column="133" selection-start-line="55" selection-start-column="133" selection-end-line="55" selection-end-column="133" />
+              <folding>
+                <element signature="e#15#30#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://E:/Python27/Lib/unittest/case.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="69">
+              <caret line="409" selection-start-line="409" selection-end-line="409" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="22" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="22" />
+              <folding>
+                <marker date="1559704087806" expanded="true" signature="112:117" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>fjbjj_je</find>
+      <find>format_data</find>
+      <find>update</find>
+      <find>db</find>
+      <find>print</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="master" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/tj_v3/ybb_zj.py" />
+        <option value="$PROJECT_DIR$/import/__init__.py" />
+        <option value="$PROJECT_DIR$/import/importXs.py" />
+        <option value="$PROJECT_DIR$/import_data/__init__.py" />
+        <option value="$PROJECT_DIR$/search/search.py" />
+        <option value="$PROJECT_DIR$/search/__init__.py" />
+        <option value="$PROJECT_DIR$/tj_v3/ybb2_1.py" />
+        <option value="$PROJECT_DIR$/tj_v3/ybb2_2.py" />
+        <option value="$PROJECT_DIR$/tj_v3/ybb3.py" />
+        <option value="$PROJECT_DIR$/tj_v3/ybb4.py" />
+        <option value="$PROJECT_DIR$/search/ybb_list.py" />
+        <option value="$PROJECT_DIR$/log/login.py" />
+        <option value="$PROJECT_DIR$/tj_v3/ybb1.py" />
+        <option value="$PROJECT_DIR$/log/del_ybb.py" />
+        <option value="$PROJECT_DIR$/importer/importer.py" />
+        <option value="$PROJECT_DIR$/log/__init__.py" />
+        <option value="$PROJECT_DIR$/log/export_xs.py" />
+        <option value="$PROJECT_DIR$/tj_v3/dxal_xb1.py" />
+        <option value="$PROJECT_DIR$/tj_v3/dxal_xb2.py" />
+        <option value="$PROJECT_DIR$/tj/ybb1.py" />
+        <option value="$PROJECT_DIR$/tj/ybb2_1.py" />
+        <option value="$PROJECT_DIR$/tj/ybb2_2.py" />
+        <option value="$PROJECT_DIR$/tj/ybb3.py" />
+        <option value="$PROJECT_DIR$/tj/ybb4.py" />
+        <option value="$PROJECT_DIR$/admin/role.py" />
+        <option value="$PROJECT_DIR$/admin/user.py" />
+        <option value="$PROJECT_DIR$/work/__init__.py" />
+        <option value="$PROJECT_DIR$/work/warning.py" />
+        <option value="$PROJECT_DIR$/auth/login.py" />
+        <option value="$PROJECT_DIR$/view/home.py" />
+        <option value="$PROJECT_DIR$/import_data/importXs.py" />
+        <option value="$PROJECT_DIR$/xs/jbxx.py" />
+        <option value="$PROJECT_DIR$/export/export.py" />
+        <option value="$PROJECT_DIR$/dao/ComModel.py" />
+        <option value="$PROJECT_DIR$/example/example.py" />
+        <option value="$PROJECT_DIR$/example/test.py" />
+        <option value="$PROJECT_DIR$/dao/db.py" />
+        <option value="$PROJECT_DIR$/example/__init__.py" />
+        <option value="$PROJECT_DIR$/common/status.py" />
+        <option value="$PROJECT_DIR$/common/AES.py" />
+        <option value="$PROJECT_DIR$/dao/Model.py" />
+        <option value="$PROJECT_DIR$/common/fun.py" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/test/test.py" />
+        <option value="$PROJECT_DIR$/dao/sqliteDb.py" />
+        <option value="$PROJECT_DIR$/exception/exception.py" />
+        <option value="$PROJECT_DIR$/config.py" />
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/example/user.py" />
+        <option value="$PROJECT_DIR$/test/testExample.py" />
+        <option value="$PROJECT_DIR$/README.md" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="218" />
+    <option name="y" value="97" />
+    <option name="width" value="1178" />
+    <option name="height" value="581" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="shflask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="shflask" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\work\fsshb\shflask\test" />
+      <recent name="E:\work\fsshb" />
+      <recent name="E:\work\fsshb\shflask" />
+      <recent name="E:\work\saohei\fsshb\shflask\static" />
+      <recent name="E:\work\saohei\fsshb\shflask\work" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\work\saohei\fsshb\shflask\tj_v3" />
+      <recent name="E:\work\saohei\shflask\xs" />
+      <recent name="E:\work\saohei\shflask" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="shflask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="environment" value="development" />
+      </envs>
+      <option name="SDK_HOME" value="E:\Python27\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="environment=development" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for testExample.TestExample" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="shflask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testExample.TestExample&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for testExample.TestExample.test_add_user" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="shflask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testExample.TestExample.test_add_user&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for testExample.TestExample.test_list_user" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="shflask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testExample.TestExample.test_list_user&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests in testExample.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="shflask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/test/testExample.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.app" />
+      <item itemvalue="Python tests.Unittests in testExample.py" />
+      <item itemvalue="Python tests.Unittests for testExample.TestExample.test_list_user" />
+      <item itemvalue="Python tests.Unittests for testExample.TestExample" />
+      <item itemvalue="Python tests.Unittests for testExample.TestExample.test_add_user" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python tests.Unittests for testExample.TestExample.test_list_user" />
+        <item itemvalue="Python tests.Unittests for testExample.TestExample.test_add_user" />
+        <item itemvalue="Python tests.Unittests in testExample.py" />
+        <item itemvalue="Python tests.Unittests for testExample.TestExample" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a44b1a14-8b35-4520-8ad2-77c261979544" name="Default Changelist" comment="" />
+      <created>1546949504876</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546949504876</updated>
+      <workItem from="1547737330768" duration="609000" />
+    </task>
+    <task id="LOCAL-00001" summary="login">
+      <created>1547520111988</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1547520111988</updated>
+    </task>
+    <task id="LOCAL-00002" summary="login">
+      <created>1547520646890</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1547520646890</updated>
+    </task>
+    <task id="LOCAL-00003" summary="全局异常">
+      <created>1547520713102</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1547520713102</updated>
+    </task>
+    <task id="LOCAL-00004" summary="数据库封装">
+      <created>1547620753826</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1547620753826</updated>
+    </task>
+    <task id="LOCAL-00005" summary="线索增删改查">
+      <created>1547640343897</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1547640343897</updated>
+    </task>
+    <task id="LOCAL-00006" summary="用户角色权限">
+      <created>1547641834774</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1547641834774</updated>
+    </task>
+    <task id="LOCAL-00007" summary="用户角色权限">
+      <created>1547690805218</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1547690805218</updated>
+    </task>
+    <task id="LOCAL-00008" summary="用户角色权限">
+      <created>1547690893273</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1547690893273</updated>
+    </task>
+    <task id="LOCAL-00009" summary="基本信息">
+      <created>1547706382692</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1547706382692</updated>
+    </task>
+    <task id="LOCAL-00010" summary="login">
+      <created>1547717202436</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1547717202436</updated>
+    </task>
+    <task id="LOCAL-00011" summary="login">
+      <created>1547725076441</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1547725076441</updated>
+    </task>
+    <task id="LOCAL-00012" summary="log">
+      <created>1547726554963</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1547726554963</updated>
+    </task>
+    <task id="LOCAL-00013" summary="excel导入">
+      <created>1548167637406</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1548167637406</updated>
+    </task>
+    <task id="LOCAL-00014" summary="搜索">
+      <created>1548335759974</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1548335759974</updated>
+    </task>
+    <task id="LOCAL-00015" summary="打印">
+      <created>1550832677794</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1550832677794</updated>
+    </task>
+    <task id="LOCAL-00016" summary="项目介绍">
+      <created>1550834869989</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1550834869990</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_testExample_TestExample - 2019.06.05 at 11h 08m 21s.xml">
+      <configuration name="Unittests for testExample.TestExample" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testExample_TestExample - 2019.06.05 at 11h 08m 42s.xml">
+      <configuration name="Unittests for testExample.TestExample" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testExample_TestExample - 2019.06.05 at 11h 08m 45s.xml">
+      <configuration name="Unittests for testExample.TestExample" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testExample_TestExample - 2019.06.05 at 11h 08m 58s.xml">
+      <configuration name="Unittests for testExample.TestExample" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testExample_py - 2019.06.05 at 11h 09m 30s.xml">
+      <configuration name="Unittests in testExample.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testExample_py - 2019.06.05 at 11h 09m 39s.xml">
+      <configuration name="Unittests in testExample.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testExample_py - 2019.06.05 at 11h 09m 42s.xml">
+      <configuration name="Unittests in testExample.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testExample_TestExample_test_list_user - 2019.06.05 at 11h 09m 45s.xml">
+      <configuration name="Unittests for testExample.TestExample.test_list_user" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testExample_TestExample_test_add_user - 2019.06.05 at 11h 19m 50s.xml">
+      <configuration name="Unittests for testExample.TestExample.test_add_user" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testExample_TestExample_test_list_user - 2019.06.05 at 11h 19m 59s.xml">
+      <configuration name="Unittests for testExample.TestExample.test_list_user" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="609000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.65353036" visible="true" weight="0.25642964" />
+      <window_info id="Structure" order="1" sideWeight="0.50508475" side_tool="true" weight="0.24810892" />
+      <window_info id="Favorites" order="2" sideWeight="0.3464696" side_tool="true" weight="0.26701966" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.52545154" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49621785" visible="true" weight="0.37110016" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.70279145" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.47783253" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50378215" side_tool="true" weight="0.47947454" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.43513957" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32840723" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.65681446" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32980332" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49748743" visible="true" weight="0.18986385" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" sideWeight="0.50125945" side_tool="true" weight="0.26096824" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32840723" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49924356" visible="true" weight="0.18883416" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.49917898" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.47783253" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50075644" side_tool="true" weight="0.52380955" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32840723" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="13" weight="0.65681446" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32980332" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="全局异常" />
+    <MESSAGE value="数据库封装" />
+    <MESSAGE value="线索增删改查" />
+    <MESSAGE value="用户角色权限" />
+    <MESSAGE value="基本信息" />
+    <MESSAGE value="login" />
+    <MESSAGE value="log" />
+    <MESSAGE value="excel导入" />
+    <MESSAGE value="搜索" />
+    <MESSAGE value="打印" />
+    <MESSAGE value="项目介绍" />
+    <option name="LAST_COMMIT_MESSAGE" value="项目介绍" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/count/ybb1.py</url>
+          <line>76</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/count/ybb1.py</url>
+          <line>185</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/importer/importer.py" />
+    <entry file="file://$PROJECT_DIR$/log/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/log/export_xs.py" />
+    <entry file="file://$PROJECT_DIR$/tj_v3/dxal_xb1.py" />
+    <entry file="file://$PROJECT_DIR$/tj_v3/dxal_xb2.py" />
+    <entry file="file://$PROJECT_DIR$/tj/ybb1.py" />
+    <entry file="file://$PROJECT_DIR$/tj/dxal_xb1.py" />
+    <entry file="file://$PROJECT_DIR$/tj/dxal_xb2.py" />
+    <entry file="file://$PROJECT_DIR$/tj/ybb2_1.py" />
+    <entry file="file://$PROJECT_DIR$/tj/ybb2_2.py" />
+    <entry file="file://$PROJECT_DIR$/tj/ybb4.py" />
+    <entry file="file://$PROJECT_DIR$/admin/role.py" />
+    <entry file="file://$PROJECT_DIR$/tj/ybb3.py" />
+    <entry file="file://$PROJECT_DIR$/tj/ybb5.py" />
+    <entry file="file://$PROJECT_DIR$/xs/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/work/__init__.py" />
+    <entry file="file://E:/Python27/Lib/site-packages/flask/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="1220" selection-start-line="1220" selection-end-line="1220" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/user.py" />
+    <entry file="file://$PROJECT_DIR$/work/warning.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-543320044/__builtin__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="230" column="4" selection-start-line="230" selection-start-column="4" selection-end-line="230" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/search/xs_search.py" />
+    <entry file="file://$PROJECT_DIR$/auth/login.py" />
+    <entry file="file://$PROJECT_DIR$/xs/bjbrxx.py" />
+    <entry file="file://$PROJECT_DIR$/view/home.py" />
+    <entry file="file://$PROJECT_DIR$/xs/jbxx.py" />
+    <entry file="file://$PROJECT_DIR$/import_data/importXs.py" />
+    <entry file="file://$PROJECT_DIR$/export/export.py" />
+    <entry file="file://$PROJECT_DIR$/count/ybb1.py" />
+    <entry file="file://$PROJECT_DIR$/tj_v3/ybb1.py" />
+    <entry file="file://$PROJECT_DIR$/dao/ComModel.py" />
+    <entry file="file://$PROJECT_DIR$/exception/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/status.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/AES.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding>
+            <element signature="e#15#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/fun.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="40" selection-start-line="2" selection-start-column="40" selection-end-line="2" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/sys.log.2019-06-05_02-20">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2679">
+          <caret line="141" column="15" selection-start-line="141" selection-start-column="15" selection-end-line="141" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/sys.log.2019-06-05_02-21">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="169" column="21" selection-start-line="169" selection-start-column="21" selection-end-line="169" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python27/Lib/logging/handlers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="198" column="55" selection-start-line="198" selection-start-column="47" selection-end-line="198" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/Model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="14" />
+          <folding>
+            <element signature="e#48#72#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python27/Lib/unittest/case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="409" selection-start-line="409" selection-end-line="409" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exception/exception.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <folding>
+            <element signature="e#22#45#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dao/sqliteDb.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="22" selection-start-line="11" selection-start-column="6" selection-end-line="11" selection-end-column="22" />
+          <folding>
+            <marker date="1559704087806" expanded="true" signature="112:117" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/user.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="25" column="20" selection-start-line="25" selection-start-column="20" selection-end-line="25" selection-end-column="20" />
+          <folding>
+            <element signature="e#15#36#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/testExample.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="55" column="133" selection-start-line="55" selection-start-column="133" selection-end-line="55" selection-end-column="133" />
+          <folding>
+            <element signature="e#15#30#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/logs/sys.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding>
+            <element signature="e#22#62#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="57">
+            <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
